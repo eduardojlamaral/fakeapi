@@ -1,9 +1,37 @@
 {
-  "posts": [
+  "familia": [
     {
-      "id": 1,
-      "title": "hello"
+      "fid": 1,
+      "descricao": "Familia 01"
+    },
+    {
+      "fid": 2,
+      "descricao": "Familia 02"
+    },
+    {
+      "fid": 3,
+      "descricao": "Familia 03"
+    },
+    {
+      "fid": 4,
+      "descricao": "Familia 04"
+    },
+    {
+      "fid": 5,
+      "descricao": "Familia 05"
+    },
+    {
+      "fid": 6,
+      "descricao": "Familia 06"
     }
+  ],
+  "produto":[
+     { "pid":1, "nome":"AAA", preco:10, fid:1 },
+     { "pid":2, "nome":"BBB", preco:10, fid:2 },
+     { "pid":3, "nome":"CCC", preco:10, fid:3 },
+     { "pid":4, "nome":"DDD", preco:10, fid:4 },
+     { "pid":5, "nome":"EEE", preco:10, fid:5 },
+     { "pid":6, "nome":"FFF", preco:10, fid:5 },
   ],
   "profile": {
     "name": "typicode"
