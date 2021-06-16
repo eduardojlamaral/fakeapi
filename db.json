@@ -26,12 +26,12 @@
     }
   ],
   "produto":[
-     { "produtoId":1, "nome":"AAA", "preco":10, "fid":1 },
-     { "produtoId":2, "nome":"BBB", "preco":11, "fid":2 },
-     { "produtoId":3, "nome":"CCC", "preco":12, "fid":3 },
-     { "produtoId":4, "nome":"DDD", "preco":13, "fid":4 },
-     { "produtoId":5, "nome":"EEE", "preco":14, "fid":5 },
-     { "produtoId":6, "nome":"FFF", "preco":15, "fid":5 }
+     { "id":1, "nome":"AAA", "preco":10, "fid":1 },
+     { "id":2, "nome":"BBB", "preco":11, "fid":2 },
+     { "id":3, "nome":"CCC", "preco":12, "fid":3 },
+     { "id":4, "nome":"DDD", "preco":13, "fid":4 },
+     { "id":5, "nome":"EEE", "preco":14, "fid":5 },
+     { "id":6, "nome":"FFF", "preco":15, "fid":5 }
   ],
   "profile": {
     "name": "typicode"
